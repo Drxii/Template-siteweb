@@ -1,0 +1,1 @@
+Un script de formulaire de contact PHP/AJAX entièrement fonctionnel est disponible dans la version pro du modèle.
